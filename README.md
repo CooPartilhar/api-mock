@@ -1,6 +1,6 @@
 # Mock server API Coopartilhar
 
-Este projeto tem por objetivo contemplar os contratos de API e mocks para o desenvolvimento do da API do aplicativo [Coopartilhar]( https://github.com/Flutterando/calamidade](https://github.com/Flutterando/calamidade-backend ).
+Este projeto tem por objetivo contemplar os contratos de API e mocks para o desenvolvimento da API do aplicativo [Coopartilhar]( https://github.com/Flutterando/calamidade](https://github.com/Flutterando/calamidade-backend ).
 
 # Execução do projeto e testes
 
