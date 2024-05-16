@@ -1,0 +1,131 @@
+{
+    "feed": [
+        {
+            "id": 1,
+            "tag": "general",
+            "title": "string",
+            "helpType": "financial",
+            "address": "String", 
+            "amount": 3500.00,
+            "status": "analysis",
+            "obs": "String",
+            "telephone": "string",
+            "cooperated": {
+                "id": 1,
+                "name": "João da silva"
+            },
+            "godfather": null,
+            "createdAt": "2024-05-15 12:11:11",
+            "chavePix": "string",
+            "banco": "string",
+            "agencia": "string",
+            "conta": "string"
+        },
+        {
+            "id": 2,
+            "tag": "house",
+            "title": "string",
+            "helpType": "product",
+            "address": "String", 
+            "amount": 3500.00,
+            "status": "accepted",
+            "obs": "String",
+            "telephone": "string",
+            "cooperated": {
+                "id": 1,
+                "name": "João da silva"
+            },
+            "godfather": null,
+            "createdAt": "2024-05-15 12:11:11",
+            "chavePix": "string",
+            "banco": "string",
+            "agencia": "string",
+            "conta": "string"
+        },
+        {
+            "id": 3,
+            "tag": "health",
+            "title": "string",
+            "helpType": "service",
+            "address": "String", 
+            "amount": 3500.00,
+            "status": "rejected",
+            "obs": "String",
+            "telephone": "string",
+            "cooperated": {
+                "id": 1,
+                "name": "João da silva"
+            },
+            "godfather": null,
+            "createdAt": "2024-05-15 12:11:11",
+            "chavePix": "string",
+            "banco": "string",
+            "agencia": "string",
+            "conta": "string"
+        },
+        {
+            "id": 4,
+            "title": "string",
+            "tag": "animals",
+            "helpType": "service",
+            "address": "String", 
+            "amount": 3500.00,
+            "status": "concluded",
+            "obs": "String",
+            "telephone": "string",
+            "cooperated": {
+                "id": 1,
+                "name": "João da silva"
+            },
+            "godfather": null,
+            "createdAt": "2024-05-15 12:11:11",
+            "chavePix": "string",
+            "banco": "string",
+            "agencia": "string",
+            "conta": "string"
+        },
+        {
+            "id": 5,
+            "title": "string",
+            "tag": "shelters",
+            "helpType": "service",
+            "address": "String", 
+            "amount": 3500.00,
+            "status": "concluded",
+            "obs": "String",
+            "telephone": "string",
+            "cooperated": {
+                "id": 1,
+                "name": "João da silva"
+            },
+            "godfather": null,
+            "createdAt": "2024-05-15 12:11:11",
+            "chavePix": "string",
+            "banco": "string",
+            "agencia": "string",
+            "conta": "string"
+        },
+        {
+            "id": 6,
+            "title": "string",
+            "tag": "anxiety",
+            "helpType": "service",
+            "address": "String", 
+            "amount": 3500.00,
+            "status": "concluded",
+            "obs": "String",
+            "telephone": "string",
+            "cooperated": {
+                "id": 1,
+                "name": "João da silva"
+            },
+            "godfather": null,
+            "createdAt": "2024-05-15 12:11:11",
+            "chavePix": "string",
+            "banco": "string",
+            "agencia": "string",
+            "conta": "string"
+        }
+    ]
+}
+
