@@ -1,0 +1,14 @@
+{
+  "accidents": [
+    {
+      "id": 1,
+      "requestId": 1,
+      "fileId": 1
+    },
+    {
+      "id": 2,
+      "requestId": 2,
+      "fileId": 2
+    }
+  ]
+}

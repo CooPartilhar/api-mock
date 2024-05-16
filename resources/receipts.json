@@ -1,0 +1,18 @@
+{
+  "receipts": [
+    {
+      "id": 1,
+      "fileId": 1,
+      "provenValue": 200.00,
+      "receiptType": "food",
+      "requestId": 1
+    },
+    {
+      "id": 2,
+      "fileId": 2,
+      "provenValue": 150.00,
+      "receiptType": "medicine",
+      "requestId": 2
+    }
+  ]
+}

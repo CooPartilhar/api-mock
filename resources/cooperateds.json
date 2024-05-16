@@ -1,0 +1,20 @@
+{
+  "cooperateds": [
+    {
+      "id": 1,
+      "firstName": "João",
+      "lastName": "da Silva",
+      "document": "34567890123",
+      "phone": "111-222-3333",
+      "organizationId": 1
+    },
+    {
+      "id": 2,
+      "firstName": "Maria",
+      "lastName": "Fernandes",
+      "document": "45678901234",
+      "phone": "444-555-6666",
+      "organizationId": 2
+    }
+  ]
+}

@@ -1,21 +1,24 @@
 {
     "users": [
         {
-            "email": "test1@example.com",
-            "password": "string",
-            "firstName": "John",
-            "lastName": "Doe",
-            "photo": {
-                "id": "cbcfa8b8-3a25-4adb-a9c6-e325f0d0f3ae"
-            },
-            "role": {
-                "id": 1,
-                "name": "Admin"
-            },
-            "status": {
-                "id": 1,
-                "name": "Active"
-            }
+            "id": 1,
+            "cooperatedId": 1,
+            "document": "12345678901",
+            "firstName": "Alice",
+            "lastName": "Johnson",
+            "email": "alice.johnson@example.com",
+            "telephone": "123-456-7890",
+            "organizationId": 1
+        },
+        {
+            "id": 2,
+            "cooperatedId": 2,
+            "document": "23456789012",
+            "firstName": "Bob",
+            "lastName": "Smith",
+            "email": "bob.smith@example.com",
+            "telephone": "987-654-3210",
+            "organizationId": 2
         }
     ]
 }

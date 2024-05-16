@@ -1,11 +1,11 @@
 {
-    "feed": [
+    "feeds": [
         {
             "id": 1,
             "tag": "general",
             "title": "string",
             "helpType": "financial",
-            "address": "String", 
+            "address": "String",
             "amount": 3500.00,
             "status": "analysis",
             "obs": "String",
@@ -26,7 +26,7 @@
             "tag": "house",
             "title": "string",
             "helpType": "product",
-            "address": "String", 
+            "address": "String",
             "amount": 3500.00,
             "status": "accepted",
             "obs": "String",
@@ -47,7 +47,7 @@
             "tag": "health",
             "title": "string",
             "helpType": "service",
-            "address": "String", 
+            "address": "String",
             "amount": 3500.00,
             "status": "rejected",
             "obs": "String",
@@ -68,7 +68,7 @@
             "title": "string",
             "tag": "animals",
             "helpType": "service",
-            "address": "String", 
+            "address": "String",
             "amount": 3500.00,
             "status": "concluded",
             "obs": "String",
@@ -89,7 +89,7 @@
             "title": "string",
             "tag": "shelters",
             "helpType": "service",
-            "address": "String", 
+            "address": "String",
             "amount": 3500.00,
             "status": "concluded",
             "obs": "String",
@@ -110,7 +110,7 @@
             "title": "string",
             "tag": "anxiety",
             "helpType": "service",
-            "address": "String", 
+            "address": "String",
             "amount": 3500.00,
             "status": "concluded",
             "obs": "String",
@@ -128,4 +128,3 @@
         }
     ]
 }
-
