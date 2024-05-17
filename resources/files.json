@@ -1,0 +1,14 @@
+{
+  "files": [
+    {
+      "id": 1,
+      "bucketName": "bucket-1",
+      "path": "/path/to/file1"
+    },
+    {
+      "id": 2,
+      "bucketName": "bucket-2",
+      "path": "/path/to/file2"
+    }
+  ]
+}

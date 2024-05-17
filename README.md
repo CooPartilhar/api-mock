@@ -12,4 +12,4 @@ Este projeto tem por objetivo contemplar os contratos de API e mocks para o dese
 
 # Definição de contratos de API
 
-Para solicitar um contrato de API, realize a abertura de um Pull request de acordo com as instruções de contribuição da mesma forma que é relizado no [repositório back-end]( https://github.com/Flutterando/calamidade](https://github.com/Flutterando/calamidade-backend# ). Contratos que tiverem aprovação serão desenvolvidos na API.
+Para solicitar um contrato de API, realize a abertura de um Pull request de acordo com as instruções de contribuição da mesma forma que é relizado no [repositório back-end](https://github.com/Flutterando/calamidade-backend#). Contratos que tiverem aprovação serão desenvolvidos na API.

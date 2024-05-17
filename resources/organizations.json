@@ -1,0 +1,22 @@
+{
+  "organizations": [
+    {
+      "id": 1,
+      "name": "Charity Org 1",
+      "street": "789 Oak St",
+      "number": 101,
+      "complement": "Floor 2",
+      "document": "56789012345",
+      "managerId": 1
+    },
+    {
+      "id": 2,
+      "name": "Helping Hands",
+      "street": "321 Pine St",
+      "number": 202,
+      "complement": "Building A",
+      "document": "67890123456",
+      "managerId": 2
+    }
+  ]
+}

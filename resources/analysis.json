@@ -1,0 +1,18 @@
+{
+  "analysis": [
+    {
+      "id": 1,
+      "description": "Initial review",
+      "status": "in progress",
+      "managerId": 1,
+      "requestId": 1
+    },
+    {
+      "id": 2,
+      "description": "Detailed analysis",
+      "status": "completed",
+      "managerId": 2,
+      "requestId": 2
+    }
+  ]
+}
